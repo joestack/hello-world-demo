@@ -3,7 +3,7 @@
 Two directories (blue and green) containing node.js and Dockerfile to create a containerized app.
 Exposes web server on port 8080 as per ./server.js
 
-Serving whether a blue or a green web server content ;-)
+Serving either a blue or a green web server content ;-)
 
 Creating both containers using:
 ```
